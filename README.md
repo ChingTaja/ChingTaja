@@ -1,1 +1,3 @@
-[About Me ( •̀ ω •́ )✧ ](https://chingtaja.github.io/Personal-website/)
+[Portfolio](https://your-portfolio-url.com)
+[LinkedIn](https://www.linkedin.com/in/your-profile/)
+[Resume](https://your-resume-url.com)
